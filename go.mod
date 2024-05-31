@@ -1,4 +1,4 @@
-module github.com/odigos-io/opentelemetry-zap-bridge
+module github.com/vespian/opentelemetry-zap-bridge
 
 go 1.21.0
 
